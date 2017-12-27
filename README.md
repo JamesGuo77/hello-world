@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Hummans!
+
+JianGuang here, I like Node.js and Coffeescript.
